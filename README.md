@@ -5,7 +5,7 @@ Test project has currently 2 raspberri pis for testing. More hardware will be av
 
 To be up and running!
 
-May 11th is when the porject will commence.
+May 11th is when the project will commence.
 
 Projects to start commencing:
 
