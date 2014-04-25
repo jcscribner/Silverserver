@@ -1,7 +1,7 @@
 Silverserver
 ============
 
-Test project has currently 2 raspberri pis for testing. More hardware will be available as time goes on.
+Test project has currently 2 raspberry pis for testing. More hardware will be available as time goes on.
 
 To be up and running!
 
